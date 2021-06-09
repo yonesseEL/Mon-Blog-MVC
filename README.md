@@ -1,12 +1,2 @@
-# [MonBlog](http://github.com/bpesquet/MonBlog)
-
-Support de l'article [Evoluer vers une architecture MVC en PHP] (http://bpesquet.developpez.com/tutoriels/php/evoluer-architecture-mvc/)
-
-Auteur : [Baptiste Pesquet](https://github.com/bpesquet)
-
-
-## Description
-
-* Cette version emploie une architecture MVC orientée objet.
-* Les autres versions sont disponibles sur les différentes branches du dépôt.
+![Capture2](https://user-images.githubusercontent.com/76878663/121273051-3fd27d00-c8bf-11eb-9e56-211e25e979c2.PNG)
 
